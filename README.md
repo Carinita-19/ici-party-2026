@@ -10,3 +10,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Benjamin Castillo
 * Nicolás Bravo
 * Maximo Adriazola
+* Leandro Barrera
