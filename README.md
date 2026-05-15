@@ -27,3 +27,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Sebastian Lillo
 * Ricardo Ibañez
 * Gerald Espinoza
+* César Jiménez
