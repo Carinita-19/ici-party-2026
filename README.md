@@ -35,4 +35,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Camila Garrido
 * Martín Jara
 * Darío Alonso
-*Jonathan Pierre
+* Jonathan Pierre
