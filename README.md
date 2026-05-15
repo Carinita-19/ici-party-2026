@@ -40,3 +40,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Juan Luengo <(´= ⩊ =`)>
 * Gonzalo Caceres
 * Claudio Olave
+* Samantha Ramírez
