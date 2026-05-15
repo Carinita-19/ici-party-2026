@@ -20,3 +20,4 @@ Añade tu nombre al final de la lista para poder participar.
 * Fabian Becerra
 * Adolfo Cancino
 * Miguel Duarte
+* Juan el Flores
